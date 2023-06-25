@@ -18,5 +18,8 @@ La réalisation de la tourelle s'appuie sur 3 grands axes :
 * L'[Hardware](Hardware) (*Materiel*)
 * Le [Design](Design) (*Conception*)
 
-## Auteurs
-__Adam Meddahi - Florian Queudot - Leni Boscher - Quentin Lacombe__
+## Contributeurs
+- Quentin LACOMBE
+- Adam MEDDAHI
+- Florian QUEDOT
+- Leni BOSCHER
